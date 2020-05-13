@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AddTask</string>
+
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Chine</item>
+        <item>Brazil</item>
+        <item>Shree-Lanka</item>
+    </string-array>
+</resources>
